@@ -44,7 +44,7 @@ A full-stack food delivery platform built with the MERN (MongoDB, Express.js, Re
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/FoodDelivery-MERN.git
+git clone https://github.com/Anduamlakalehegne/Food-Delivery
 cd FoodDelivery-MERN
 ```
 
@@ -117,6 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/FoodDelivery-MERN](https://github.com/yourusername/FoodDelivery-MERN)
+Project Link: [https://github.com/Anduamlakalehegne/Food-Delivery](https://github.com/Anduamlakalehegne/Food-Delivery)
 
 
