@@ -44,12 +44,9 @@ A full-stack food delivery platform built with the MERN (MongoDB, Express.js, Re
 
 1. Clone the repository
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/Anduamlakalehegne/Food-Delivery
-=======
-git clone https://github.com/yourusername/FoodDelivery-MERN.git
->>>>>>> 4f5156b87ba9db03d8e655761d922a565ec21913
-cd FoodDelivery-MERN
+
+cd Food-Delivery
 ```
 
 2. Install dependencies for backend
@@ -103,28 +100,10 @@ The API endpoints are organized around the following resources:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - [@anduamlak](https://twitter.com/AnduamlakM27) - anduamlakalehegne@gmail.com
 
-<<<<<<< HEAD
-Project Link: [https://github.com/Anduamlakalehegne/Food-Delivery](https://github.com/Anduamlakalehegne/Food-Delivery)
-=======
-Project Link: [https://github.com/yourusername/FoodDelivery-MERN](https://github.com/yourusername/FoodDelivery-MERN)
->>>>>>> 4f5156b87ba9db03d8e655761d922a565ec21913
 
 
